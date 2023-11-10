@@ -1,0 +1,21 @@
+.header > img{
+    margin-top: 100px;
+    width: 60%;
+ 
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+nav{
+    padding: 20px 50px;
+    display: flex;
+    background-color: #252b48;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    gap: 1200px;
+    justify-content: space-around;
+}
